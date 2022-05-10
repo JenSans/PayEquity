@@ -1,6 +1,6 @@
 # PayEquity
 
-Data can be downloaded to .csv here: 
+Updated data can be downloaded to .csv here: 
 
 https://lnkd.in/g5Xz8pSJ
 
