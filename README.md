@@ -1,4 +1,4 @@
-# PayEquity
+# Pay Equity
 
 Updated data can be downloaded to .csv here: 
 
